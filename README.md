@@ -1,9 +1,10 @@
 <h1>👋 Hi, I'm Shruthi! <br/><a href="https://www.linkedin.com/in/shruthi-udhayakumar/">IT Security Professional</a>, <a href="https://tryhackme.com/p/Shruthy">Cybersecurity enthusiast</a></h1>
 
 <h2>👨‍💻 My certifications </h2>
-  <b>GIAC Certified Incident Handler (GCIH)</b>
-    - (https://www.credly.com/badges/254253b5-6f91-45d3-a2d1-c91e0bc005ca/public_url)
-  <b>Systems Security Certified Practitioner (SSCP)</b>
+
+  - <b>GIAC Certified Incident Handler (GCIH)</b>
+    - (https://www.credly.com/badges/254253b5-6f91-45d3-a2d1-c91e0bc005ca/public_url)  
+  - <b>Systems Security Certified Practitioner (SSCP)</b>
     - (https://www.credly.com/badges/b0028619-580e-4bcf-88bc-386f1d837c4e/public_url)
 
   
