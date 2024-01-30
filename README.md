@@ -1,12 +1,21 @@
 <h1>👋 Hi, I'm Shruthi! <br/><a href="https://www.linkedin.com/in/shruthi-udhayakumar/">IT Security Professional</a>, <a href="https://tryhackme.com/p/Shruthy">Cybersecurity enthusiast</a></h1>
 
-<!---
+<h2>👨‍💻 My certifications </h2>
+  <b>GIAC Certified Incident Handler (GCIH)</b>
+    - (https://www.credly.com/badges/254253b5-6f91-45d3-a2d1-c91e0bc005ca/public_url)
+  <b>Systems Security Certified Practitioner (SSCP)</b>
+    - (https://www.credly.com/badges/b0028619-580e-4bcf-88bc-386f1d837c4e/public_url)
+
+  
+
 <h2>👨‍💻 Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - <b>Practice of Information Security</b>
+    - [Youtube video](https://www.youtube.com/watch?v=Z8xqVGKAqR0&t=23s)
+  - <b>Network Penetration Testing</b>
+    - [Download PDF]()
+
+<!---
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
